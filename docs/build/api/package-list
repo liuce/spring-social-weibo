@@ -1,0 +1,4 @@
+org.springframework.social.weibo.api
+org.springframework.social.weibo.api.impl
+org.springframework.social.weibo.api.impl.json
+org.springframework.social.weibo.connect
